@@ -1,6 +1,6 @@
 # 🗳️ Online Voting System
 
-A PHP and MySQL-based Online Voting System developed for a college course project.
+A PHP and MySQL-based Online Voting System.
 
 ## Features
 
